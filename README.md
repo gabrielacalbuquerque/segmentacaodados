@@ -88,3 +88,5 @@ Realizar a limpeza, preparação, análise exploratória e segmentação de clie
 - Planilha base para o tratamento de dados e posterior análise - [**LINK**](https://docs.google.com/spreadsheets/d/1pnZo6CY_Vy8I4eAhUMg25wI0G2t3ZJcBN9vXzO3E93I/edit?gid=1006076267#gid=1006076267)
 - Dashboard  - [**LINK**](https://lookerstudio.google.com/reporting/2fe6d9a7-9935-4e8d-9c2f-ce074597d33e/page/ebAIF?s=n1OwdNb06_E%20)
 - Apresentação da análise dos resultados - [**LINK**](https://docs.google.com/presentation/d/1Y3lXeHK4fa3Fgl7mkz5EGYzrotfpWiAxqKaam-Jp1DQ/edit#slide=id.g34daed8c64e_2_75)
+
+
