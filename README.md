@@ -30,7 +30,10 @@ Classificar e segmentar clientes com base em métricas de Recência, Frequência
 - Criação de dashboards funcionais com filtros e segmentações
 - Aprofundamento no uso da análise RFM como ferramenta estratégica
 
-## Visualizações
-![Dashboard RFM](https://lookerstudio.google.com/reporting/2fe6d9a7-9935-4e8d-9c2f-ce074597d33e)
+## Visualização do Dashboard
+
+Abaixo está o painel interativo criado no Looker Studio com os principais insights da análise RFM:
+
+![Dashboard RFM](imagens/Dashboard__O_mercado__page-0001.jpg)
 
 
