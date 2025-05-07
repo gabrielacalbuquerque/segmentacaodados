@@ -29,7 +29,7 @@ Este projeto tem como objetivo segmentar a base de clientes de uma empresa fict�
 
 ## Visualização do Dashboard
 
-![Dashboard RFM](Dashboard__O_mercado__page-0001.jpg)
+![Dashboard Spotify](Dashboard__O_mercado__page-0001.jpg)
 
 ---
 
