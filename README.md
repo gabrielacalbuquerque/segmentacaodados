@@ -52,7 +52,7 @@ Este projeto tem como objetivo segmentar a base de clientes de uma empresa fict�
 ## Contato
 
 Gabriela Albuquerque  
-[LinkedIn](https://www.linkedin.com/in/gabrielacalbuquerque/) | [Portfólio](https://github.com/gabrielacalbuquerque)
+[LinkedIn](https://www.linkedin.com/in/gabriela-cdeallbuquerque/) | [Portfólio](https://github.com/gabrielacalbuquerque)
 
 
 
