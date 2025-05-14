@@ -49,6 +49,10 @@ Este projeto tem como objetivo segmentar a base de clientes de uma empresa fict�
 
 ---
 
+## links de interesse
+
+[Apresentação em vídeo dos resultado da análise] (https://www.loom.com/share/308981ca996f42bb8d2191d4353ef1be/)
+
 ## Contato
 
 Gabriela Albuquerque  
